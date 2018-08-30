@@ -1,3 +1,6 @@
+#TODO Add a way to time a execution of a function, can use timeit.timeit('', number=100000)
+
+
 import math
 
 
